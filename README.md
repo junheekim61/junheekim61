@@ -34,7 +34,9 @@
         Front-End Developer
       </td>
       <td>
-        <a href="https://www.snorose.com"> 👉 snorose.com </a>
+        <a href="https://www.snorose.com">
+          <img src="http://img.shields.io/badge/snorose.com-4285F4?style=flat&amp;" alt="snorose.com">
+        </a>
       </td>
     </tr>
     <tr> <!-- project -->
@@ -47,7 +49,9 @@
         Front-End Developer
       </td>
       <td>
-        <a href="https://www.coasterchat.com"> 👉 coasterchat.com </a>
+        <a href="https://www.coasterchat.com">
+          <img src="http://img.shields.io/badge/coasterchat.com-4285F4?style=flat&amp;" alt="coasterchat.com">
+        </a>
       </td>
     </tr>
     <tr> <!-- project -->
@@ -60,7 +64,9 @@
         PM, Front-End Developer
       </td>
       <td>
-        <a href="https://wellet.site"> 👉 wellet.site </a>
+        <a href="https://wellet.site">
+          <img src="http://img.shields.io/badge/wellet.site-4285F4?style=flat&amp;" alt="wellet.site">
+        </a>
       </td>
     </tr>
     <tr> <!-- project -->
@@ -73,7 +79,9 @@
         Front-End Developer
       </td>
       <td>
-        <a href="https://cagongdo.store"> 👉 cagongdo.store </a>
+        <a href="https://cagongdo.store">
+          <img src="http://img.shields.io/badge/cagongdo.store-4285F4?style=flat&amp;" alt="cagongdo.store">
+        </a>
       </td>
     </tr>
     <tr> <!-- project -->
@@ -86,7 +94,9 @@
         Front-End Developer
       </td>
       <td>
-        <a href="https://2024-apps.netlify.app"> 👉 2024-apps.netlify.app </a>
+        <a href="https://2024-apps.netlify.app">
+          <img src="http://img.shields.io/badge/coasterchat.com-4285F4?style=flat&amp;" alt="coasterchat.com">
+        </a>
       </td>
     </tr>
   </tbody>
