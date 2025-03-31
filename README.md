@@ -21,7 +21,7 @@
     <tr> <!-- project -->
       <td>2024.06 - (Now)</td>
       <td>
-        <img width="30" src="https://github.com/user-attachments/assets/248c8771-89c2-48c5-ad72-ac82ebd4c6c0">
+        <img width="30" src="https://github.com/user-attachments/assets/a03766f5-f777-4d9d-b307-9b521ddbbe25">
         <a href="https://github.com/snorose/snorose-front-react">숙명인을 위한 커뮤니티, SNOROSE</a>
       </td>
       <td>
@@ -34,7 +34,7 @@
     <tr> <!-- project -->
       <td>2024.12 - 2025.03</td>
       <td>
-        <img width="30" src="https://github.com/user-attachments/assets/6ba27d70-0065-4bcd-b324-4feba7814136">
+        <img width="30" src="https://github.com/user-attachments/assets/10a47209-483c-41ef-b056-2dcb737cb4f8">
         <a href="https://github.com/Coastee/COASTER-Client">청년 창업자 네트워킹 플랫폼, COASTER</a>
       </td>
       <td>
@@ -47,7 +47,7 @@
     <tr> <!-- project -->
       <td>2024.04 - 2025.03</td>
       <td>
-        <img width="30" src="https://github.com/user-attachments/assets/1a31215e-3a12-41e0-81c9-9f1d799a725a"/> 
+        <img width="30" src="https://github.com/user-attachments/assets/27090284-961c-4471-b8e5-872ab78bc679"/> 
         <a href="https://github.com/APPS-sookmyung/2024-WELLET-client">온라인 명함 보관 서비스, WELLET</a>
       </td>
       <td>
@@ -60,7 +60,7 @@
     <tr> <!-- project -->
       <td>2024.04 - 2025.03</td>
       <td>
-        <img width="30" src="https://github.com/user-attachments/assets/a5aa4536-4b38-4011-867a-c5ce5cdeec67"/> 
+        <img width="30" src="https://github.com/user-attachments/assets/a8bed62e-0893-4064-b803-6983a576bc51"/> 
         <a href="https://github.com/APPS-sookmyung/2024-Cagongdo">내 주변 카공 맛집, CAGONGDO</a>
       </td>
       <td>
@@ -73,7 +73,7 @@
     <tr> <!-- project -->
       <td>2024.07 - 2024.12</td>
       <td>
-        <img width="30" src="https://github.com/user-attachments/assets/ccbee6a3-173a-4d94-86ba-d4d8b49d6b40"/> 
+        <img width="30" src="https://github.com/user-attachments/assets/a6363634-d200-4d03-806c-8f376fbd2771"/> 
         <a href="https://github.com/APPS-sookmyung/2024-APPS-Exhibition-Webpage">2024 APPS 온라인 전시회</a>
       </td>
       <td>
