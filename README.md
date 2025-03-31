@@ -6,6 +6,12 @@
 - JavaScript
 - React
 
+## 🛠 기술 스택
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,emotion,styledcomponents,vite,npm,yarn,netlify,vercel,cloudflare,figma)
+
+<br>
+
 ### 🛠️ Project
 
 <table>
