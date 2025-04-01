@@ -6,7 +6,7 @@
 - JavaScript
 - React
 
-## 🛠 기술 스택
+## 🛠 Skill
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,emotion,styledcomponents,vite,npm,yarn,netlify,vercel,cloudflare,figma)
 
@@ -25,7 +25,7 @@
   </thead>
   <tbody>
     <tr> <!-- project -->
-      <td>2024.06 - (Now)</td>
+      <td>2024.06 - ing</td>
       <td>
         <img width="30" src="https://github.com/user-attachments/assets/a03766f5-f777-4d9d-b307-9b521ddbbe25">
         <a href="https://github.com/snorose/snorose-front-react">숙명인을 위한 커뮤니티, SNOROSE</a>
@@ -101,3 +101,25 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+
+### 🏃‍♀️ Experience
+
+> Internship
+
+- [Q-click Inc]: 프론트엔드 개발 인턴 `[2024.09 ~ 2025.12]`
+
+<br>
+
+> Team
+
+- [SNOROSE](https://www.instagram.com/snorose1906/): 숙명인을 위한 커뮤니티 - 프론트엔드팀 `[2024.06 ~ ing]` 
+- [APPS](https://github.com/APPS-sookmyung): 숙명여대 소프트웨어학부 개발 학회 11기`[2024.03 ~ 2025.03]`
+- [UMC](https://github.com/UMC-SMWU): IT 사이드 프로젝트 연합 동아리 6기 - Web Part `[2024.03 ~ 2024.08]`
+- [UMC](https://github.com/UMC-SMWU): IT 사이드 프로젝트 연합 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
+- [공명](https://www.instagram.com/sookmyung_engineering/): 숙명여대 공과대학 학생회 홍보디자인국 `[2023.04 ~ 2023.12]`
+- [PROMETHEUS](https://www.instagram.com/prometheus_ai_): 대학생 인공지능 연합 동아리 2기`[2022.08 ~ 2023.08]`
+
+
+<br>
