@@ -123,7 +123,7 @@
       </td>
       <td>
         <a href="https://2024-apps.netlify.app">
-          <img src="http://img.shields.io/badge/2024-apps-exhibition-4285F4?style=flat&amp;" alt="2024-apps-exhibition">
+          <img src="http://img.shields.io/badge/2024.apps.exhibition-4285F4?style=flat&amp;" alt="2024.apps.exhibition">
         </a>
       </td>
     </tr>
