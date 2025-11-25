@@ -18,14 +18,14 @@
 ## 🏃‍♀️ Experience
 
 > Internship
-
+- [Matchwork Inc]: 웹 서비스 QA  `[2025.07 ~ ing]`
 - [Q-click Inc]: 프론트엔드 개발 인턴 `[2024.09 ~ 2025.11]`
 
 <br>
 
 > Freelancer
 
-- [Matchwork Inc]: 웹 서비스 QA  `[2025.04.30 ~ ing]`
+- [Matchwork Inc]: 웹 서비스 QA  `[2025.04 ~ 2025.06]`
 
 <br>
 
