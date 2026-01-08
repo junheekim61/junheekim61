@@ -17,21 +17,18 @@
 
 ## 🏃‍♀️ Experience
 
-> Internship
-- [Matchwork Inc]: 웹 서비스 QA & 프론트엔드 개발 인턴 `[2025.07 ~ ing]`
+> Work
+
 - [Q-click Inc]: 프론트엔드 개발 인턴 `[2024.09 ~ 2025.11]`
-
-<br>
-
-> Freelancer
-
 - [Matchwork Inc]: 웹 서비스 QA 프리랜서 `[2025.04 ~ 2025.06]`
+- [Matchwork Inc]: QA 및 프론트엔드 개발 인턴 `[2025.07 ~ 2026.01]`
+
 
 <br>
 
 > Team
 
-- [SNOROSE](https://www.instagram.com/snorose1906/):  숙명인을 위한 커뮤니티 - 프론트엔드팀 `[2024.06 ~ ing]` 
+- [SNOROSE](https://www.instagram.com/snorose1906/):  숙명인을 위한 커뮤니티 - 개발팀 프론트엔드 파트`[2024.06 ~ 2026.01]` 
 - [APPS](https://github.com/APPS-sookmyung):  숙명여대 소프트웨어학부 개발 학회 11기`[2024.03 ~ 2025.03]`
 - [UMC](https://github.com/UMC-SMWU):  IT 사이드 프로젝트 연합 동아리 6기 - Web Part `[2024.03 ~ 2024.08]`
 - [UMC](https://github.com/UMC-SMWU):  IT 사이드 프로젝트 연합 동아리 5기 - Web Part `[2023.09 ~ 2024.02]`
@@ -53,7 +50,7 @@
   </thead>
   <tbody>
     <tr> <!-- project -->
-      <td>2024.06 - ing</td>
+      <td>2024.06 - 2026.01</td>
       <td>
         <img width="30" src="https://github.com/user-attachments/assets/a03766f5-f777-4d9d-b307-9b521ddbbe25">
         <a href="https://github.com/snorose/snorose-front-react">숙명인을 위한 커뮤니티, SNOROSE</a>
